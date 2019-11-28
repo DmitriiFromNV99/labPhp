@@ -1,0 +1,66 @@
+body {
+	background-color:#FFFFE0;
+	color:Black;
+	font-size:20px;
+	margin:0;
+	padding:0;
+	line-height:24px;
+	
+}
+
+.forSpan {
+	
+	padding-left: 10px;
+	
+}
+
+.mydiv1 {
+	
+	margin-bottom:90%;
+	margin-top:10%;
+	border:solid black;
+	border-style: double;
+	border-width: 3px 7px 7px 4px;
+	width:400px;
+	position:relative;
+	top:30%;
+	left:35%;
+	color:Fuchsia;
+}
+
+form {
+	text-align:center;
+}
+
+.btn {
+	background-color:Fuchsia;
+	padding:5px;
+	font-size:25px;
+	width:180px;
+	height:50px;
+	border-radius:8px;
+	color:#F0E68C;
+}
+
+
+.btn:hover {
+	background:DarkMagenta;
+	color:Fuchsia;
+}
+
+
+.btn:active {
+	background:Plum;
+}
+
+.text {
+	
+	border-color:black;
+	background-color:Moccasin;
+}
+
+.text1 {
+	border:2px solid;
+	border-color: red;
+	background-color:Moccasin;
+}
